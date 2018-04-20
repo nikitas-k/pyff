@@ -1,0 +1,35 @@
+name: pyff
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2018.03.07=0
+  - certifi=2018.1.18=py27_0
+  - fontconfig=2.13.0=h23c43c1_0
+  - freetype=2.9=hadd163a_0
+  - icu=58.2=h9c2bf20_1
+  - libedit=3.1=heed3624_0
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=7.2.0=hdf63c60_3
+  - libpng=1.6.34=hb9fc6fc_0
+  - libstdcxx-ng=7.2.0=hdf63c60_3
+  - libuuid=1.0.3=h1bed415_2
+  - libxml2=2.9.8=hf84eae3_0
+  - ncurses=6.0=h9df7e31_2
+  - openssl=1.0.2o=h20670df_0
+  - pip=9.0.3=py27_0
+  - pyqt=4.11.4=py27_4
+  - python=2.7.14=h1571d57_31
+  - qt=4.8.7=3
+  - readline=7.0=ha6073c6_4
+  - setuptools=39.0.1=py27_0
+  - sip=4.18=py27_0
+  - sqlite=3.22.0=h1bed415_0
+  - tk=8.6.7=hc745277_3
+  - wheel=0.31.0=py27_0
+  - xz=5.2.3=h55aa19d_2
+  - zlib=1.2.11=ha838bed_2
+  - pip:
+    - panda3d==1.9.4
+    - pygame==1.9.3
+prefix: /home/user/miniconda2/envs/pyff
+
